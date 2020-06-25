@@ -1,0 +1,29 @@
+-->Au niveau de la facturation
+
+- Remplacer Prix Uinitaire par Prix unitaire
+- Mettre la 1ere lettre des prix en lettre en Majuscules et ajouter "s" a Franc
+	Ex: 
+	Part-patient: Quatorze Mille Francs CFA
+	Part-Assureur: Vingt-Quatre Mille Francs CFA
+	Montant Total: Trente-Huit Mille Francs CFA
+	
+- Remplacer "Nom" part "Designation"
+- Ajouter la valeur du B sur la facture (soit au dessus de la facture ou en dessous)
+	B= Valeur attribuee au B
+    Ex: B=130 si 130 est la valeur attribuee au B
+
+- Lors de la facturation, survenu d'un probleme lorsqu on met les examens a facturer pour avoir une estimation du prix puis ajoute le nom du patient apres, les prix disparaissent et necessite de rechercher les examens a zero --> ralentissement de la facturation
+
+- Probleme lors de l'ajout d'un patient assure lors de la facturation, le nom de l'assurance ne figure pas sur le masque bien que le 80% de couverture du patient soit affiche et qu'il figure sur la facture lorsqu'on clique sur devis ou facture.
+
+- Permettre que lorsqu'on appui sur la touche Entree valide l'operation (chercher ou valider)
+
+-->Au niveau de Management, onglet assurance a ajouter
+
+-->Est-ce possible d'ajouter CEDBCAM en filigrane sur les factures et resultats?
+
+--> Recherche des examens/patients/medecins sur plusieurs mois ou annee toujours pas operationnelle
+
+--> Est-ce possible d'ajouter des images lors du rendu des resultats?
+
+  
